@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Agiltech-com-au
-- 👀 I’m interested in Ai, coding, and data
-- 🌱 I’m currently learning Python, N8N, Google Ai studio, copilot studio, LLM training, Vector stores
-- 💞️ I’m looking to collaborate on everything Ai
+- 👋 Hi, I’m RiCHARD @ Agiltech-com-au.
+- 👀 I’m interested in Ai, coding, and data.
+- 🌱 I’m currently expandng on Python, N8N, Google Ai studio, copilot studio, LLM training, Vector stores
+- 🏬I work with SQL, big business data, workflows & automations. 
+- 💞️ I’m looking to collaborate on everything Ai & big data.
 - 📫 How to reach me richard@agiltech.com.au
 
 <!---
